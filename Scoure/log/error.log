@@ -1,0 +1,93 @@
+[2024-07-03 17:31:20 DEBUG Log:28] Load part th‡nh cÙng (1476)
+[2024-07-03 17:31:20 DEBUG Log:28] Load map template th‡nh cÙng (163)
+[2024-07-03 17:31:20 DEBUG Log:28] Load skill th‡nh cÙng (3)
+[2024-07-03 17:31:21 DEBUG Log:28] Load head avatar th‡nh cÙng (365)
+[2024-07-03 17:31:21 DEBUG Log:28] Load flag bag th‡nh cÙng (108)
+[2024-07-03 17:31:21 DEBUG Log:28] Load c?i trang th‡nh cÙng (359)
+[2024-07-03 17:31:21 DEBUG Log:28] Load intrinsic th‡nh cÙng (26)
+[2024-07-03 17:31:21 DEBUG Log:28] Load task th‡nh cÙng (33)
+[2024-07-03 17:31:21 DEBUG Log:28] Load side task th‡nh cÙng (59)
+[2024-07-03 17:31:21 DEBUG Log:28] Load map item template th‡nh cÙng (2115)
+[2024-07-03 17:31:21 DEBUG Log:28] Load map item option template th‡nh cÙng (249)
+[2024-07-03 17:31:22 DEBUG Log:28] Load shop th‡nh cÙng (24)
+[2024-07-03 17:31:22 DEBUG Log:28] Load reward lucky round th‡nh cÙng! 98.26
+[2024-07-03 17:31:22 DEBUG Log:28] Load reward lucky round th‡nh cÙng (87)
+[2024-07-03 17:31:22 DEBUG Log:28] Load mob template th‡nh cÙng (84)
+[2024-07-03 17:31:22 DEBUG Log:28] Load npc template th‡nh cÙng (81)
+[2024-07-03 17:31:24 DEBUG Log:28] Init map th‡nh cÙng!
+[2024-07-03 17:31:24 DEBUG Log:28] ThÙng b·o t?i d? li?u images by name th‡nh cÙng (125)
+[2024-07-03 17:31:24 DEBUG Log:28] Load clan th‡nh cÙng (128), clan next id: 150
+[2024-07-03 17:31:24 DEBUG Log:20] T?ng th?i gian load database: 6528(ms)
+[2024-07-03 17:31:25 DEBUG Log:20] Start server......... Current thread: 246
+[2024-07-03 17:32:40 ERROR Log:52] nro.services.Service: Uncompilable code
+java.lang.RuntimeException: Uncompilable code
+	at nro.models.map.Zone.getItemMapsForPlayer(Zone.java:1)
+	at nro.models.map.Zone.mapInfo(Zone.java:692)
+	at nro.server.Controller.sendInfo(Controller.java:862)
+	at nro.server.io.Session.enter(Session.java:353)
+	at nro.server.io.Session.finishUpdate(Session.java:323)
+	at nro.server.Controller.onMessage(Controller.java:304)
+	at nro.server.io.MessageCollector.run(MessageCollector.java:38)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+[2024-07-03 17:33:02 ERROR Log:52] nro.services.Service: Uncompilable code
+java.lang.RuntimeException: Uncompilable code
+	at nro.models.map.Zone.getItemMapsForPlayer(Zone.java:1)
+	at nro.models.map.Zone.mapInfo(Zone.java:692)
+	at nro.server.Controller.sendInfo(Controller.java:862)
+	at nro.server.io.Session.enter(Session.java:353)
+	at nro.server.io.Session.finishUpdate(Session.java:323)
+	at nro.server.Controller.onMessage(Controller.java:304)
+	at nro.server.io.MessageCollector.run(MessageCollector.java:38)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+[2024-07-03 17:34:09 ERROR Log:52] nro.services.Service: Uncompilable code
+java.lang.RuntimeException: Uncompilable code
+	at nro.models.map.Zone.getItemMapsForPlayer(Zone.java:1)
+	at nro.models.map.Zone.mapInfo(Zone.java:692)
+	at nro.server.Controller.sendInfo(Controller.java:862)
+	at nro.server.io.Session.enter(Session.java:353)
+	at nro.server.io.Session.finishUpdate(Session.java:323)
+	at nro.server.Controller.onMessage(Controller.java:304)
+	at nro.server.io.MessageCollector.run(MessageCollector.java:38)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+[2024-07-03 17:41:01 DEBUG Log:28] Load part th√†nh c√¥ng (1476)
+[2024-07-03 17:41:02 DEBUG Log:28] Load map template th√†nh c√¥ng (163)
+[2024-07-03 17:41:02 DEBUG Log:28] Load skill th√†nh c√¥ng (3)
+[2024-07-03 17:41:02 DEBUG Log:28] Load head avatar th√†nh c√¥ng (365)
+[2024-07-03 17:41:02 DEBUG Log:28] Load flag bag th√†nh c√¥ng (108)
+[2024-07-03 17:41:02 DEBUG Log:28] Load c·∫£i trang th√†nh c√¥ng (359)
+[2024-07-03 17:41:02 DEBUG Log:28] Load intrinsic th√†nh c√¥ng (26)
+[2024-07-03 17:41:02 DEBUG Log:28] Load task th√†nh c√¥ng (33)
+[2024-07-03 17:41:02 DEBUG Log:28] Load side task th√†nh c√¥ng (59)
+[2024-07-03 17:41:02 DEBUG Log:28] Load map item template th√†nh c√¥ng (2115)
+[2024-07-03 17:41:02 DEBUG Log:28] Load map item option template th√†nh c√¥ng (249)
+[2024-07-03 17:41:03 DEBUG Log:28] Load shop th√†nh c√¥ng (24)
+[2024-07-03 17:41:03 DEBUG Log:28] Load reward lucky round th√†nh c√¥ng! 98.26
+[2024-07-03 17:41:03 DEBUG Log:28] Load reward lucky round th√†nh c√¥ng (87)
+[2024-07-03 17:41:03 DEBUG Log:28] Load mob template th√†nh c√¥ng (84)
+[2024-07-03 17:41:03 DEBUG Log:28] Load npc template th√†nh c√¥ng (81)
+[2024-07-03 17:41:04 DEBUG Log:28] Init map th√†nh c√¥ng!
+[2024-07-03 17:41:04 DEBUG Log:28] Th√¥ng b√°o t·∫£i d·ªØ li·ªáu images by name th√†nh c√¥ng (125)
+[2024-07-03 17:41:04 DEBUG Log:28] Load clan th√†nh c√¥ng (128), clan next id: 150
+[2024-07-03 17:41:04 DEBUG Log:20] T·ªïng th·ªùi gian load database: 3203(ms)
+[2024-07-03 17:41:04 DEBUG Log:20] Start server......... Current thread: 245
+[2024-07-03 19:18:47 DEBUG Log:28] Load part th‡nh cÙng (1476)
+[2024-07-03 19:18:48 DEBUG Log:28] Load map template th‡nh cÙng (163)
+[2024-07-03 19:18:48 DEBUG Log:28] Load skill th‡nh cÙng (3)
+[2024-07-03 19:18:48 DEBUG Log:28] Load head avatar th‡nh cÙng (365)
+[2024-07-03 19:18:48 DEBUG Log:28] Load flag bag th‡nh cÙng (108)
+[2024-07-03 19:18:48 DEBUG Log:28] Load c?i trang th‡nh cÙng (359)
+[2024-07-03 19:18:48 DEBUG Log:28] Load intrinsic th‡nh cÙng (26)
+[2024-07-03 19:18:48 DEBUG Log:28] Load task th‡nh cÙng (33)
+[2024-07-03 19:18:48 DEBUG Log:28] Load side task th‡nh cÙng (59)
+[2024-07-03 19:18:48 DEBUG Log:28] Load map item template th‡nh cÙng (2115)
+[2024-07-03 19:18:48 DEBUG Log:28] Load map item option template th‡nh cÙng (249)
+[2024-07-03 19:18:49 DEBUG Log:28] Load shop th‡nh cÙng (24)
+[2024-07-03 19:18:49 DEBUG Log:28] Load reward lucky round th‡nh cÙng! 98.26
+[2024-07-03 19:18:49 DEBUG Log:28] Load reward lucky round th‡nh cÙng (87)
+[2024-07-03 19:18:49 DEBUG Log:28] Load mob template th‡nh cÙng (84)
+[2024-07-03 19:18:49 DEBUG Log:28] Load npc template th‡nh cÙng (81)
+[2024-07-03 19:18:50 DEBUG Log:28] Init map th‡nh cÙng!
+[2024-07-03 19:18:50 DEBUG Log:28] ThÙng b·o t?i d? li?u images by name th‡nh cÙng (125)
+[2024-07-03 19:18:50 DEBUG Log:28] Load clan th‡nh cÙng (128), clan next id: 150
+[2024-07-03 19:18:50 DEBUG Log:20] T?ng th?i gian load database: 4193(ms)
+[2024-07-03 19:18:50 DEBUG Log:20] Start server......... Current thread: 244
